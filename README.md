@@ -1,5 +1,6 @@
 Este projeto em grupo foi desenvolvido por **Viviane Puga**, **Mateus Passo**, **Letícia Oliveira**, **Rick Valadares**, **Will Gomes**, como parte do programa de estudos da **Trybe**
 
+
 <p align="center">
   <img src="./gif1.gif" />
 </p>
